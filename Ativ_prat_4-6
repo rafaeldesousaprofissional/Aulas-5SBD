@@ -1,0 +1,23 @@
+PARTE 1:
+
+4:
+
+SELECT LENGTH(CLIENTE_NOME)
+FROM CLIENTE;
+
+5:
+
+6:
+
+7:
+
+
+8:
+
+SELECT SYSDATE FROM DUAL;
+
+9:
+
+SELECT TO_CHAR(SYSDATE + 30, 'DD/MM/YYYY') AS "Data de vencimento simulada"
+FROM DUAL;
+
